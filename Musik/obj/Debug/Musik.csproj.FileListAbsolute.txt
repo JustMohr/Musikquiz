@@ -1,0 +1,12 @@
+C:\Users\Justin\source\repos\Musik\Musik\bin\Debug\Musik.exe.config
+C:\Users\Justin\source\repos\Musik\Musik\bin\Debug\Musik.exe
+C:\Users\Justin\source\repos\Musik\Musik\bin\Debug\Musik.pdb
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.Form1.resources
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.Properties.Resources.resources
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.exe
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.pdb
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Interop.WMPLib.dll
+C:\Users\Justin\source\repos\Musik\Musik\obj\Debug\Musik.csproj.ResolveComReference.cache
